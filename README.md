@@ -13,7 +13,7 @@ This is a small suite of basic tests for a demo instance of the Aiwyn Client Por
 ## Tests
 
 - User can login
-  - Test I added as a basic smoke test to ensure everything was working
+  - Test I added as a basic sanity check to ensure everything was working
   - Completed
 - User selects the first invoice to be paid using the Unpaid table.
   - Completed
