@@ -14,6 +14,7 @@ This is a small suite of basic tests for a demo instance of the Aiwyn Client Por
 
 - User can login
   - Test I added as a basic smoke test to ensure everything was working
+  - Completed
 - User selects the first invoice to be paid using the Unpaid table.
   - Completed
 - Make the payment by creating a new credit card payment method using the sidebar.
